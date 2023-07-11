@@ -1,0 +1,14 @@
+D:\Projects\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+D:\Projects\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Projects\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Login.resources
+D:\Projects\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MDIParent1.resources
+D:\Projects\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\Projects\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+D:\Projects\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Projects\InventoryManagementSystem\bin\Debug\inventory.mdf
+D:\Projects\InventoryManagementSystem\bin\Debug\inventory_log.ldf
+D:\Projects\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\Projects\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\Projects\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\Projects\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+D:\Projects\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
